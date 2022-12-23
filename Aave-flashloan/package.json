@@ -1,0 +1,21 @@
+{
+  "name": "aave-flashloan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aave/core-v3": "^1.16.2-beta.5",
+    "@openzeppelin/contracts": "^4.8.0",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "alchemy-sdk": "^2.2.5"
+  }
+}
